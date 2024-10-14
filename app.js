@@ -29,7 +29,7 @@ function getFantasyData(callback) {
 // Route for the home page
 app.get('/', (req, res) => {
   getFantasyData((data) => {
-    const topN = 40;
+    const topN = 100;
 
     // Extract 'gw' from the data (assuming all rows have the same 'gw')
     const gw = data.length > 0 ? data[0].gw : 'Unknown';
