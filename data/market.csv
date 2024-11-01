@@ -1,470 +1,470 @@
 ,element,position,team,value,status,expected_pts_N1,expected_pts_full,name,gw
-385,351,4,13,154,a,6.43,33.68,Erling Haaland,10
-364,328,3,12,127,a,5.87,33.31,Mohamed Salah,10
-235,182,3,6,110,a,5.61,34.78,Cole Palmer,10
-85,17,3,1,100,a,4.83,28.4,Bukayo Saka,10
+385,351,4,13,154,a,6.48,33.68,Erling Haaland,10
+364,328,3,12,127,a,5.91,33.31,Mohamed Salah,10
+235,182,3,6,110,a,5.6,34.78,Cole Palmer,10
+85,17,3,1,100,a,4.84,28.64,Bukayo Saka,10
 508,491,3,18,67,a,4.8,23.45,Brennan Johnson,10
-277,230,3,8,58,d,4.74,21.52,Dwight McNeil,10
-250,199,3,7,67,d,4.64,23.71,Eberechi Eze,10
-296,252,4,9,57,a,4.51,20.32,Raúl Jiménez,10
-292,247,3,9,55,a,4.38,20.73,Alex Iwobi,10
-384,350,2,13,62,d,4.28,24.45,Joško Gvardiol,10
+277,230,3,8,58,d,4.76,21.52,Dwight McNeil,10
+250,199,3,7,67,d,4.59,23.68,Eberechi Eze,10
+296,252,4,9,57,a,4.52,20.29,Raúl Jiménez,10
+292,247,3,9,55,a,4.35,20.76,Alex Iwobi,10
 20,201,1,7,44,a,4.25,18.54,Dean Henderson,10
 87,19,3,9,57,a,4.23,19.22,Emile Smith Rowe,10
 528,514,3,19,74,a,4.2,25.44,Jarrod Bowen,10
-24,235,1,8,48,a,4.11,20.52,Jordan Pickford,10
-378,342,3,13,65,a,4.1,23.62,Bernardo Veiga de Carvalho e Silva,10
+378,342,3,13,65,a,4.14,23.62,Bernardo Veiga de Carvalho e Silva,10
+24,235,1,8,48,a,4.1,20.52,Jordan Pickford,10
 26,248,1,9,50,a,4.09,19.84,Bernd Leno,10
+399,366,3,14,82,a,4.07,23.41,Bruno Borges Fernandes,10
 158,99,3,4,77,a,4.05,25.03,Bryan Mbeumo,10
-399,366,3,14,82,a,4.04,23.41,Bruno Borges Fernandes,10
 251,200,2,7,44,a,4.04,15.15,Marc Guéhi,10
 79,9,3,1,70,a,4.02,21.94,Gabriel Martinelli Silva,10
+404,372,3,14,63,a,4.02,22.66,Alejandro Garnacho,10
+384,350,2,13,62,d,3.99,24.45,Joško Gvardiol,10
+552,541,4,20,66,a,3.98,23.06,Matheus Santos Carneiro Da Cunha,10
 2,15,1,1,56,a,3.95,21.65,David Raya Martin,10
-286,240,3,9,53,d,3.95,17.18,Andreas Hoelgebaum Pereira,10
-404,372,3,14,62,a,3.95,22.12,Alejandro Garnacho,10
+509,492,3,18,63,a,3.93,19.33,Dejan Kulusevski,10
 382,348,3,13,93,a,3.92,20.9,Phil Foden,10
-509,492,3,18,63,a,3.91,19.33,Dejan Kulusevski,10
-36,347,1,13,55,a,3.89,21.11,Ederson Santana de Moraes,10
 511,494,3,18,76,a,3.89,20.86,James Maddison,10
-552,541,4,20,65,a,3.89,22.46,Matheus Santos Carneiro Da Cunha,10
+36,347,1,13,55,a,3.89,21.11,Ederson Santana de Moraes,10
+286,240,3,9,53,d,3.87,17.18,Andreas Hoelgebaum Pereira,10
 311,267,2,10,45,a,3.86,17.19,Leif Davis,10
-75,4,4,1,82,a,3.85,23.06,Kai Havertz,10
-470,447,4,16,64,d,3.83,20.1,Chris Wood,10
+259,211,2,7,48,a,3.86,15.23,Daniel Muñoz,10
+75,4,4,1,82,a,3.85,23.02,Kai Havertz,10
+470,447,4,16,64,d,3.84,20.1,Chris Wood,10
 284,238,2,8,45,a,3.8,15.03,Ashley Young,10
-259,211,2,7,48,a,3.8,15.23,Daniel Muñoz,10
-279,232,4,8,54,a,3.79,16.0,Iliman Ndiaye,10
 299,255,2,9,47,a,3.79,15.63,Antonee Robinson,10
+279,232,4,8,54,a,3.78,16.0,Iliman Ndiaye,10
 268,220,4,8,60,a,3.74,18.88,Dominic Calvert-Lewin,10
 121,58,4,2,91,a,3.72,26.7,Ollie Watkins,10
-74,3,2,1,63,d,3.71,19.01,Gabriel dos Santos Magalhães,10
+652,650,2,7,45,a,3.71,14.13,Maxence Lacroix,10
+62,568,1,10,44,a,3.71,17.43,Arijanet Muric,10
+258,210,2,7,49,a,3.67,15.17,Tyrick Mitchell,10
 285,239,3,9,51,a,3.67,17.27,Adama Traoré,10
-62,568,1,10,44,a,3.67,17.43,Arijanet Muric,10
 143,82,4,18,77,a,3.67,19.83,Dominic Solanke-Mitchell,10
-275,228,2,8,42,a,3.66,14.75,Michael Keane,10
-258,210,2,7,49,a,3.64,15.17,Tyrick Mitchell,10
+275,228,2,8,42,a,3.67,14.75,Michael Keane,10
 230,177,3,6,65,a,3.64,20.9,Noni Madueke,10
-363,327,3,12,79,a,3.63,20.29,Luis Díaz,10
-282,236,2,8,48,a,3.6,15.24,James Tarkowski,10
+282,236,2,8,48,a,3.63,15.24,James Tarkowski,10
 175,117,3,11,51,a,3.6,18.54,Facundo Buonanotte,10
-652,650,2,7,45,a,3.59,14.13,Maxence Lacroix,10
-256,207,4,7,73,a,3.58,16.72,Jean-Philippe Mateta,10
-84,16,3,1,63,a,3.58,18.59,Declan Rice,10
-579,571,3,13,65,d,3.56,21.73,Sávio 'Savinho' Moreira de Oliveira,10
-233,180,4,6,79,a,3.56,20.81,Nicolas Jackson,10
-617,611,3,10,58,a,3.55,14.09,Sam Szmodics,10
-91,23,3,1,69,a,3.5,19.87,Leandro Trossard,10
-512,495,2,18,55,a,3.5,20.48,Pedro Porro,10
+256,207,4,7,73,a,3.59,16.72,Jean-Philippe Mateta,10
+84,16,3,1,63,a,3.59,18.64,Declan Rice,10
+74,3,2,1,62,d,3.58,18.25,Gabriel dos Santos Magalhães,10
+579,571,3,13,65,d,3.57,21.73,Sávio 'Savinho' Moreira de Oliveira,10
+233,180,4,6,79,a,3.56,20.93,Nicolas Jackson,10
+617,611,3,10,58,a,3.56,14.09,Sam Szmodics,10
+363,327,3,12,78,a,3.55,19.96,Luis Díaz,10
 312,268,4,10,57,a,3.5,16.14,Liam Delap,10
+430,401,4,15,83,a,3.49,18.88,Alexander Isak,10
+512,495,2,18,55,a,3.49,20.48,Pedro Porro,10
+91,23,3,1,69,a,3.49,19.87,Leandro Trossard,10
 92,24,2,1,63,a,3.47,17.21,Benjamin White,10
 388,354,3,13,56,a,3.46,20.3,Mateo Kovačić,10
+348,311,2,12,70,a,3.46,21.69,Trent Alexander-Arnold,10
 545,533,2,20,46,a,3.45,17.94,Rayan Aït-Nouri,10
-430,401,4,15,83,a,3.44,18.88,Alexander Isak,10
 46,443,1,16,46,a,3.43,17.78,Matz Sels,10
-212,159,2,7,44,a,3.41,10.78,Trevoh Chalobah,10
-348,311,2,12,70,a,3.41,21.69,Trent Alexander-Arnold,10
+212,159,2,7,44,a,3.42,10.78,Trevoh Chalobah,10
 389,355,2,13,48,a,3.41,16.89,Rico Lewis,10
-375,339,2,12,61,a,3.38,18.81,Virgil van Dijk,10
 1,14,1,17,44,a,3.38,15.32,Aaron Ramsdale,10
+375,339,2,12,61,a,3.37,18.81,Virgil van Dijk,10
 43,413,1,15,50,a,3.35,18.8,Nick Pope,10
-459,434,3,16,54,a,3.34,16.54,Callum Hudson-Odoi,10
+422,392,3,15,65,a,3.33,17.94,Harvey Barnes,10
+459,434,3,16,54,a,3.33,16.54,Callum Hudson-Odoi,10
 316,272,4,10,54,a,3.29,11.19,George Hirst,10
-422,392,3,15,65,a,3.27,17.94,Harvey Barnes,10
-278,231,2,8,43,a,3.24,12.54,Vitalii Mykolenko,10
+427,398,3,15,72,a,3.26,19.66,Anthony Gordon,10
 40,383,1,14,50,a,3.24,20.74,André Onana,10
+278,231,2,8,43,a,3.23,12.54,Vitalii Mykolenko,10
+520,503,3,18,99,d,3.23,22.4,Son Heung-min,10
 54,508,1,18,50,a,3.23,18.67,Guglielmo Vicario,10
-29,293,1,11,45,a,3.22,16.25,Mads Hermansen,10
 575,566,4,20,55,a,3.22,17.98,Jørgen Strand Larsen,10
-520,503,3,18,99,d,3.21,22.4,Son Heung-min,10
-427,398,3,15,72,a,3.2,19.72,Anthony Gordon,10
-424,394,3,15,62,a,3.2,16.74,Bruno Guimarães Rodriguez Moura,10
+29,293,1,11,45,a,3.22,16.25,Mads Hermansen,10
+424,394,3,15,62,a,3.21,16.75,Bruno Guimarães Rodriguez Moura,10
 472,449,3,16,49,a,3.2,13.9,Ryan Yates,10
-340,300,3,11,50,a,3.19,14.27,Wilfred Ndidi,10
-345,306,4,11,57,a,3.17,18.14,Jamie Vardy,10
+340,300,3,11,50,a,3.2,14.27,Wilfred Ndidi,10
+394,361,2,13,55,a,3.17,17.34,Rúben Gato Alves Dias,10
 569,560,3,6,62,a,3.17,14.86,Pedro Lomba Neto,10
-394,361,2,13,55,a,3.11,17.34,Rúben Gato Alves Dias,10
+345,306,4,11,57,a,3.16,18.14,Jamie Vardy,10
+400,368,3,14,48,a,3.12,16.36,Carlos Henrique Casimiro,10
 120,57,3,2,55,a,3.1,18.88,Youri Tielemans,10
-400,368,3,14,48,a,3.08,16.36,Carlos Henrique Casimiro,10
+415,385,3,14,69,a,3.07,19.67,Marcus Rashford,10
 634,630,2,10,40,a,3.06,10.31,Dara O'Shea,10
-415,385,3,14,69,a,3.06,19.67,Marcus Rashford,10
 637,633,3,1,60,a,3.04,12.76,Mikel Merino,10
-428,399,2,15,43,a,3.02,14.44,Lewis Hall,10
 11,91,1,4,45,a,3.02,19.62,Mark Flekken,10
-401,369,2,14,51,a,2.99,17.41,Diogo Dalot Teixeira,10
+428,399,2,15,43,a,3.02,14.44,Lewis Hall,10
+401,369,2,14,51,a,3.01,17.41,Diogo Dalot Teixeira,10
+629,625,3,13,65,a,2.99,15.34,Ilkay Gündogan,10
 301,257,2,9,45,a,2.99,13.54,Kenny Tete,10
 163,104,2,4,45,a,2.99,17.25,Ethan Pinnock,10
 194,136,3,5,65,a,2.97,21.33,Mitoma Kaoru,10
 210,157,3,6,49,a,2.97,14.91,Moisés Caicedo Corozo,10
-376,340,2,13,55,d,2.96,17.31,Manuel Akanji,10
 449,423,3,16,50,a,2.96,13.54,Elliot Anderson,10
+376,340,2,13,55,d,2.96,17.31,Manuel Akanji,10
 88,20,3,1,50,a,2.95,15.12,Thomas Partey,10
-441,415,2,15,54,a,2.94,14.34,Fabian Schär,10
-515,498,2,18,51,a,2.94,15.84,Cristian Romero,10
-362,326,2,12,53,a,2.93,16.93,Ibrahima Konaté,10
+441,415,2,15,54,a,2.95,14.34,Fabian Schär,10
+515,498,2,18,51,a,2.94,15.83,Cristian Romero,10
 149,89,3,4,50,a,2.93,18.73,Mikkel Damsgaard,10
-287,241,2,9,45,a,2.92,12.64,Calvin Bassey,10
-5,47,1,2,50,a,2.91,19.49,Emiliano Martínez Romero,10
-432,403,3,15,60,a,2.89,16.82,Joelinton Cássio Apolinário de Lira,10
+287,241,2,9,45,a,2.93,12.64,Calvin Bassey,10
+362,326,2,12,53,a,2.93,16.93,Ibrahima Konaté,10
+432,403,3,15,60,a,2.92,16.83,Joelinton Cássio Apolinário de Lira,10
+5,47,1,2,50,a,2.92,19.49,Emiliano Martínez Romero,10
+600,593,2,14,50,a,2.91,17.02,Matthijs de Ligt,10
 95,27,4,17,50,a,2.89,14.14,Cameron Archer,10
-629,625,3,13,65,a,2.88,15.34,Ilkay Gündogan,10
-372,336,3,12,64,a,2.87,15.91,Dominik Szoboszlai,10
-600,593,2,14,50,a,2.87,17.02,Matthijs de Ligt,10
-461,436,2,16,45,a,2.86,13.41,Murillo Santiago Costa dos Santos,10
+461,436,2,16,45,a,2.88,13.41,Murillo Santiago Costa dos Santos,10
+372,336,3,12,64,a,2.87,15.99,Dominik Szoboszlai,10
+76,6,2,1,55,a,2.86,14.82,Jurriën Timber,10
 265,217,3,8,52,a,2.86,12.46,Abdoulaye Doucouré,10
+338,298,3,11,53,a,2.85,15.26,Stephy Mavididi,10
 60,554,1,20,43,a,2.85,12.89,José Malheiro de Sá,10
-19,185,1,6,47,a,2.84,20.48,Robert Sánchez,10
-338,298,3,11,53,a,2.84,15.26,Stephy Mavididi,10
+19,185,1,6,47,a,2.83,20.48,Robert Sánchez,10
 448,422,2,16,46,a,2.83,13.93,Ola Aina,10
 139,78,3,3,56,a,2.82,20.33,Antoine Semenyo,10
+272,224,3,8,53,a,2.81,12.65,Jack Harrison,10
 483,461,2,17,41,a,2.81,11.87,Taylor Harwood-Bellis,10
-406,375,4,14,69,a,2.81,14.61,Rasmus Højlund,10
-402,370,3,14,54,a,2.8,14.26,Christian Eriksen,10
+406,375,4,14,69,a,2.8,14.61,Rasmus Højlund,10
 361,324,3,12,53,a,2.78,13.73,Curtis Jones,10
-272,224,3,8,53,a,2.77,12.65,Jack Harrison,10
+335,295,2,11,46,a,2.78,14.35,James Justin,10
 353,316,4,12,71,a,2.77,14.01,Darwin Núñez Ribeiro,10
-335,295,2,11,46,a,2.77,14.35,James Justin,10
-118,54,3,2,54,a,2.77,17.86,Morgan Rogers,10
+360,323,3,12,50,a,2.77,13.85,Ryan Gravenberch,10
 581,573,2,16,45,a,2.76,13.3,Nikola Milenković,10
-360,323,3,12,50,a,2.76,13.85,Ryan Gravenberch,10
+402,370,3,14,54,a,2.76,14.26,Christian Eriksen,10
+118,54,3,2,54,a,2.76,17.86,Morgan Rogers,10
+390,356,3,13,49,a,2.73,8.85,Matheus Luiz Nunes,10
 264,216,3,7,48,a,2.72,11.44,Adam Wharton,10
 395,362,2,13,53,a,2.71,12.74,John Stones,10
+457,432,3,16,52,a,2.69,12.24,Anthony Elanga,10
 307,263,2,10,39,a,2.69,9.13,Cameron Burgess,10
 153,94,3,4,49,a,2.69,13.77,Vitaly Janelt,10
-76,6,2,1,55,a,2.69,14.82,Jurriën Timber,10
-457,432,3,16,52,a,2.69,12.24,Anthony Elanga,10
-523,506,2,18,47,d,2.69,14.84,Micky van de Ven,10
+168,110,4,4,60,a,2.68,17.01,Yoane Wissa,10
+157,98,3,4,50,a,2.68,14.18,Keane Lewis-Potter,10
 522,505,2,18,49,a,2.68,15.05,Destiny Udogie,10
 623,618,3,5,55,a,2.68,18.86,Georginio Rutter,10
-157,98,3,4,50,a,2.68,14.18,Keane Lewis-Potter,10
-168,110,4,4,60,a,2.68,16.81,Yoane Wissa,10
+148,88,2,4,45,a,2.67,16.28,Nathan Collins,10
 204,148,4,5,59,a,2.65,20.36,Danny Welbeck,10
-148,88,2,4,45,a,2.64,16.28,Nathan Collins,10
 578,570,3,11,54,a,2.64,13.47,Abdul Fatawu,10
-390,356,3,13,49,a,2.61,8.85,Matheus Luiz Nunes,10
 270,222,3,8,49,a,2.61,10.63,Idrissa Gueye,10
+523,506,2,18,47,d,2.61,14.93,Micky van de Ven,10
+477,455,2,17,40,a,2.61,9.66,Jan Bednarek,10
 365,329,3,12,62,a,2.6,13.5,Alexis Mac Allister,10
-477,455,2,17,40,a,2.6,9.66,Jan Bednarek,10
+86,18,2,1,60,a,2.59,11.68,William Saliba,10
 215,162,2,6,46,a,2.59,14.04,Levi Colwill,10
 117,53,3,2,54,a,2.59,14.49,Jacob Ramsey,10
 347,309,3,11,45,a,2.58,13.93,Harry Winks,10
 96,28,3,2,63,a,2.55,14.82,Leon Bailey,10
-532,518,3,17,48,a,2.55,11.78,Flynn Downes,10
-86,18,2,1,60,a,2.53,11.68,William Saliba,10
+532,518,3,17,48,a,2.54,11.78,Flynn Downes,10
+568,559,2,20,45,a,2.54,11.62,Nélson Cabral Semedo,10
 542,530,3,19,50,a,2.52,15.63,Tomáš Souček,10
-568,559,2,20,45,a,2.52,11.62,Nélson Cabral Semedo,10
 309,265,3,10,52,a,2.5,9.55,Conor Chaplin,10
-500,482,3,18,49,a,2.49,12.56,Yves Bissouma,10
+500,482,3,18,49,a,2.5,12.56,Yves Bissouma,10
+358,321,4,12,71,a,2.5,13.93,Cody Gakpo,10
 14,146,1,5,45,a,2.49,17.05,Bart Verbruggen,10
-358,321,4,12,71,a,2.48,13.84,Cody Gakpo,10
 81,11,4,7,59,a,2.47,12.23,Eddie Nketiah,10
 594,587,3,19,57,a,2.47,12.2,Crysencio Summerville,10
 425,395,2,15,44,a,2.46,13.8,Dan Burn,10
 392,359,3,10,49,a,2.46,9.95,Kalvin Phillips,10
+592,585,3,7,57,a,2.46,12.34,Ismaïla Sarr,10
 371,335,2,12,60,a,2.45,16.35,Andrew Robertson,10
-592,585,3,7,57,a,2.45,12.34,Ismaïla Sarr,10
-333,291,2,11,42,a,2.45,12.78,Wout Faes,10
 411,380,2,14,44,a,2.45,14.9,Lisandro Martínez,10
+333,291,2,11,42,a,2.45,12.78,Wout Faes,10
 34,325,1,12,44,a,2.44,12.56,Caoimhin Kelleher,10
-127,64,3,3,50,a,2.43,17.0,Lewis Cook,10
 160,101,3,4,48,a,2.43,12.65,Christian Nørgaard,10
+127,64,3,3,50,a,2.43,17.0,Lewis Cook,10
 539,527,3,19,59,a,2.42,16.68,Lucas Tolentino Coelho de Lima,10
 525,509,3,18,62,a,2.38,10.81,Timo Werner,10
-614,608,3,17,46,a,2.36,12.27,Tyler Dibling,10
+495,476,2,17,44,a,2.36,10.33,Kyle Walker-Peters,10
+614,608,3,17,46,a,2.36,12.28,Tyler Dibling,10
 566,557,3,20,50,a,2.35,13.12,Mario Lemina,10
-495,476,2,17,44,a,2.33,10.33,Kyle Walker-Peters,10
 224,171,2,6,49,a,2.3,12.13,Malo Gusto,10
 144,83,3,3,55,a,2.3,17.19,Marcus Tavernier,10
+104,36,2,2,47,a,2.3,15.57,Lucas Digne,10
 527,512,4,19,54,a,2.3,15.33,Michail Antonio,10
-104,36,2,2,47,a,2.29,15.57,Lucas Digne,10
+553,542,2,20,44,a,2.28,11.1,Craig Dawson,10
+438,409,2,15,45,a,2.28,11.45,Tino Livramento,10
 290,245,2,9,44,a,2.28,8.87,Issa Diop,10
-553,542,2,20,44,a,2.27,11.1,Craig Dawson,10
 173,115,3,5,50,a,2.25,14.1,Carlos Baleba,10
-438,409,2,15,45,a,2.24,11.45,Tino Livramento,10
-397,364,3,14,49,a,2.23,14.85,Amad Diallo,10
+397,364,3,14,49,a,2.24,14.85,Amad Diallo,10
+564,553,3,20,49,a,2.22,10.6,João Victor Gomes da Silva,10
 443,417,3,15,55,a,2.22,11.46,Sandro Tonali,10
-564,553,3,20,49,a,2.21,10.6,João Victor Gomes da Silva,10
+536,524,2,19,45,a,2.21,13.12,Max Kilman,10
 106,38,4,2,61,a,2.2,15.05,Jhon Durán,10
-536,524,2,19,45,a,2.17,13.12,Max Kilman,10
-418,388,2,19,44,a,2.16,12.91,Aaron Wan-Bissaka,10
+418,388,2,19,44,a,2.17,12.91,Aaron Wan-Bissaka,10
 475,452,3,17,49,a,2.14,10.89,Joe Aribo,10
+94,26,2,16,44,a,2.13,10.64,Álex Moreno Lopera,10
+601,594,2,14,46,a,2.13,14.22,Noussair Mazraoui,10
 134,71,3,3,53,a,2.13,14.15,Justin Kluivert,10
-595,588,3,19,49,a,2.11,10.85,Guido Rodríguez,10
 113,48,3,2,52,a,2.11,10.38,John McGinn,10
+595,588,3,19,49,a,2.11,10.85,Guido Rodríguez,10
 116,52,2,2,45,a,2.1,13.48,Pau Torres,10
 341,301,2,11,40,a,2.1,10.07,Caleb Okoli,10
-94,26,2,16,44,a,2.1,10.64,Álex Moreno Lopera,10
-601,594,2,14,46,a,2.09,14.22,Noussair Mazraoui,10
-225,172,2,6,49,a,2.06,9.3,Reece James,10
+254,205,3,7,51,a,2.06,9.29,Daichi Kamada,10
+243,192,3,11,52,a,2.06,10.16,Jordan Ayew,10
 234,181,3,6,60,a,2.06,12.38,Christopher Nkunku,10
-243,192,3,11,52,a,2.05,10.16,Jordan Ayew,10
 622,617,4,3,59,a,2.05,14.45,Francisco Evanilson de Lima Barbosa,10
 280,233,3,2,50,a,2.04,13.07,Amadou Onana,10
-431,402,3,15,51,d,2.04,12.62,Jacob Murphy,10
+225,172,2,6,49,a,2.04,9.51,Reece James,10
+431,402,3,15,51,d,2.04,12.61,Jacob Murphy,10
 164,105,2,4,44,a,2.03,9.5,Mads Roerslev Rasmussen,10
-318,274,3,10,53,a,2.02,11.04,Omari Giraud-Hutchinson,10
-254,205,3,7,51,a,2.02,9.29,Daichi Kamada,10
+318,274,3,10,53,a,2.03,11.04,Omari Giraud-Hutchinson,10
+516,499,3,18,48,a,2.0,9.71,Pape Matar Sarr,10
 97,29,3,2,52,a,1.97,11.78,Ross Barkley,10
-516,499,3,18,48,a,1.96,9.71,Pape Matar Sarr,10
 534,520,2,19,44,a,1.96,12.91,Emerson Palmieri dos Santos,10
 374,338,2,4,40,a,1.95,11.66,Sepp van den Berg,10
-255,206,3,7,48,d,1.94,8.3,Jefferson Lerma Solís,10
-537,525,3,19,62,s,1.92,19.46,Mohammed Kudus,10
-632,628,2,5,45,a,1.92,11.59,Ferdi Kadioglu,10
+632,628,2,5,45,a,1.94,11.59,Ferdi Kadioglu,10
+603,596,3,16,59,a,1.93,9.39,João Pedro Ferreira Silva,10
+537,525,3,19,62,s,1.93,19.46,Mohammed Kudus,10
 180,122,2,5,50,a,1.92,11.47,Pervis Estupiñán,10
-603,596,3,16,59,a,1.92,9.39,João Pedro Ferreira Silva,10
-100,32,2,2,44,a,1.9,11.08,Matty Cash,10
+255,206,3,7,48,d,1.9,8.3,Jefferson Lerma Solís,10
 526,511,3,19,50,a,1.9,9.48,Edson Álvarez Velázquez,10
-446,420,3,15,48,a,1.9,8.84,Joe Willock,10
-80,10,3,9,50,a,1.89,10.91,Reiss Nelson,10
+100,32,2,2,44,a,1.9,11.08,Matty Cash,10
+80,10,3,9,50,a,1.9,10.91,Reiss Nelson,10
 140,79,2,3,48,a,1.88,13.7,Marcos Senesi,10
+446,420,3,15,48,a,1.87,8.84,Joe Willock,10
 419,389,4,14,67,a,1.86,15.32,Joshua Zirkzee,10
 202,145,2,5,45,a,1.85,13.67,Joël Veltman,10
-421,391,3,15,56,a,1.84,9.26,Miguel Almirón Rejala,10
-221,168,3,6,48,a,1.81,11.54,Enzo Fernández,10
+421,391,3,15,56,a,1.84,9.25,Miguel Almirón Rejala,10
+221,168,3,6,48,a,1.84,11.55,Enzo Fernández,10
 227,174,3,6,45,a,1.81,7.96,Roméo Lavia,10
-240,189,2,6,45,a,1.8,10.25,Wesley Fofana,10
+242,191,2,9,43,a,1.81,9.43,Joachim Andersen,10
 573,564,2,20,43,a,1.8,9.82,Santiago Bueno,10
+240,189,2,6,45,a,1.8,10.25,Wesley Fofana,10
 322,278,3,10,49,d,1.79,9.57,Sam Morsy,10
+266,218,4,8,50,a,1.78,6.21,Norberto Bercique Gomes Betuncal,10
+78,8,2,1,48,a,1.78,7.46,Jakub Kiwior,10
 126,63,3,3,49,a,1.77,13.34,Ryan Christie,10
-266,218,4,8,50,a,1.77,6.21,Norberto Bercique Gomes Betuncal,10
-487,467,2,17,43,a,1.76,8.37,Ryan Manning,10
-111,44,2,2,45,a,1.76,13.9,Ezri Konsa Ngoyo,10
+487,467,2,17,43,a,1.76,8.41,Ryan Manning,10
+111,44,2,2,45,a,1.75,13.9,Ezri Konsa Ngoyo,10
 585,577,3,8,51,a,1.75,8.19,Jesper Lindstrøm,10
-78,8,2,1,48,a,1.75,7.46,Jakub Kiwior,10
-476,453,4,17,52,a,1.74,8.28,Adam Armstrong,10
 216,163,2,6,50,a,1.74,10.38,Marc Cucurella Saseta,10
-242,191,2,9,43,a,1.72,9.43,Joachim Andersen,10
 133,70,2,3,44,a,1.72,13.7,Milos Kerkez,10
-56,513,1,19,44,a,1.69,10.1,Alphonse Areola,10
-498,480,3,18,50,a,1.67,7.25,Rodrigo Bentancur,10
+476,453,4,17,51,a,1.7,8.08,Adam Armstrong,10
+498,480,3,18,50,a,1.68,7.25,Rodrigo Bentancur,10
+56,513,1,19,44,a,1.68,10.1,Alphonse Areola,10
 439,410,3,15,47,a,1.66,7.99,Sean Longstaff,10
 232,179,3,6,62,a,1.64,8.11,Mykhailo Mudryk,10
 57,521,1,19,40,a,1.64,9.28,Łukasz Fabiański,10
+535,523,4,19,50,a,1.63,10.18,Danny Ings,10
 295,251,4,9,57,a,1.63,11.49,Rodrigo Muniz Carvalho,10
-535,523,4,19,50,a,1.62,10.18,Danny Ings,10
+145,85,2,3,44,a,1.6,13.58,Illia Zabarnyi,10
 186,128,2,5,44,a,1.57,10.43,Igor Julio dos Santos de Paulo,10
-351,314,3,4,48,a,1.56,12.39,Fábio Freitas Gouveia Carvalho,10
-145,85,2,3,44,a,1.56,13.58,Illia Zabarnyi,10
 10,84,1,3,44,a,1.55,9.03,Mark Travers,10
+351,314,3,4,48,a,1.55,12.39,Fábio Freitas Gouveia Carvalho,10
 201,144,2,5,45,a,1.54,12.26,Jan Paul van Hecke,10
 462,437,2,16,44,a,1.52,7.99,Neco Williams,10
 267,219,2,8,48,a,1.52,5.45,Jarrad Branthwaite,10
 181,123,4,5,55,a,1.51,7.82,Evan Ferguson,10
-616,610,3,18,45,a,1.5,5.38,Mikey Moore,10
 514,497,4,18,68,a,1.5,8.34,Richarlison de Andrade,10
-491,472,2,17,40,a,1.48,8.85,Jack Stephens,10
+616,610,3,18,45,a,1.5,5.38,Mikey Moore,10
+491,472,2,17,40,a,1.49,8.85,Jack Stephens,10
 540,528,2,19,45,a,1.47,8.89,Konstantinos Mavropanos,10
-626,621,3,6,61,a,1.44,6.24,João Félix Sequeira,10
-73,2,4,1,68,a,1.44,9.42,Gabriel Fernando de Jesus,10
-574,565,3,20,51,a,1.44,7.61,Pablo Sarabia,10
+373,337,2,12,46,a,1.47,7.35,Konstantinos Tsimikas,10
+73,2,4,1,68,a,1.46,9.41,Gabriel Fernando de Jesus,10
+574,565,3,20,51,a,1.45,7.61,Pablo Sarabia,10
 237,186,3,1,67,a,1.44,7.72,Raheem Sterling,10
-373,337,2,12,46,a,1.43,7.35,Konstantinos Tsimikas,10
-165,106,3,4,52,a,1.4,10.37,Kevin Schade,10
-383,349,3,13,64,i,1.39,12.89,Jack Grealish,10
+626,621,3,6,61,a,1.44,6.24,João Félix Sequeira,10
+326,284,2,10,40,a,1.39,5.38,Luke Woolfenden,10
+165,106,3,4,52,a,1.39,10.37,Kevin Schade,10
 598,591,2,19,44,a,1.37,7.91,Jean-Clair Todibo,10
-326,284,2,10,40,a,1.36,5.38,Luke Woolfenden,10
-586,578,2,1,58,i,1.34,12.68,Riccardo Calafiori,10
-576,567,2,20,43,a,1.33,6.94,Toti António Gomes,10
-381,346,3,13,63,i,1.32,15.65,Jérémy Doku,10
-112,45,2,2,48,a,1.32,8.74,Ian Maatsen,10
-416,386,3,6,63,n,1.31,12.98,Jadon Sancho,10
-489,470,4,17,49,a,1.31,5.8,Paul Onuachu,10
-493,474,2,17,45,a,1.26,9.12,Sugawara Yukinari,10
+383,349,3,13,64,i,1.36,12.89,Jack Grealish,10
+586,578,2,1,58,i,1.35,12.68,Riccardo Calafiori,10
+576,567,2,20,43,a,1.34,6.94,Toti António Gomes,10
+112,45,2,2,48,a,1.34,8.74,Ian Maatsen,10
+381,346,3,13,63,i,1.33,15.65,Jérémy Doku,10
+489,470,4,17,49,a,1.3,5.8,Paul Onuachu,10
+493,474,2,17,45,a,1.3,9.12,Sugawara Yukinari,10
+142,81,2,3,45,a,1.29,9.73,Adam Smith,10
+416,386,3,6,63,n,1.27,12.98,Jadon Sancho,10
 547,535,3,20,50,a,1.25,9.03,Jean-Ricner Bellegarde,10
-142,81,2,3,45,a,1.25,9.73,Adam Smith,10
-303,259,3,9,53,a,1.21,6.01,Harry Wilson,10
-205,149,3,5,48,a,1.21,7.37,Mats Wieffer,10
+205,149,3,5,48,a,1.22,7.37,Mats Wieffer,10
+303,259,3,9,52,a,1.22,5.73,Harry Wilson,10
+262,214,3,7,47,a,1.21,5.13,Jeffrey Schlupp,10
 15,152,1,3,45,d,1.21,9.62,Kepa Arrizabalaga,10
-262,214,3,7,47,a,1.2,5.13,Jeffrey Schlupp,10
 559,548,3,20,53,a,1.19,6.15,Gonçalo Manuel Ganchinho Guedes,10
-179,121,3,5,54,a,1.17,7.16,Julio Enciso,10
-380,345,3,13,94,i,1.13,13.95,Kevin De Bruyne,10
-458,433,3,16,63,d,1.09,12.09,Morgan Gibbs-White,10
-103,35,2,2,45,a,1.09,7.29,Diego Carlos Santos Silva,10
+179,121,3,5,54,a,1.18,7.16,Julio Enciso,10
+380,345,3,13,94,i,1.12,13.95,Kevin De Bruyne,10
+458,433,3,16,63,d,1.1,12.09,Morgan Gibbs-White,10
+103,35,2,2,45,a,1.09,7.3,Diego Carlos Santos Silva,10
 184,126,3,5,50,a,1.08,10.92,Jack Hinshelwood,10
-178,120,2,5,45,d,1.07,10.45,Lewis Dunk,10
 154,95,3,4,53,a,1.06,7.15,Mathias Jensen,10
-354,317,3,12,73,i,1.04,15.59,Diogo Teixeira da Silva,10
-599,592,2,3,44,a,1.03,6.88,Julián Araujo Zúñiga,10
-336,296,2,11,45,d,1.03,7.22,Victor Kristiansen,10
 450,424,4,16,56,a,1.03,6.13,Taiwo Awoniyi,10
+178,120,2,5,45,d,1.03,10.45,Lewis Dunk,10
+354,317,3,12,73,i,1.03,15.59,Diogo Teixeira da Silva,10
+599,592,2,3,44,a,1.03,6.88,Julián Araujo Zúñiga,10
+336,296,2,11,45,d,1.02,7.22,Victor Kristiansen,10
 169,111,3,4,44,a,0.97,5.2,Yehor Yarmoliuk,10
-146,86,2,4,45,d,0.97,7.83,Kristoffer Ajer,10
-342,302,2,11,43,a,0.96,6.04,Ricardo Barbosa Pereira,10
+342,302,2,11,43,a,0.97,6.04,Ricardo Barbosa Pereira,10
+82,12,3,1,45,a,0.96,4.99,Ethan Nwaneri,10
 327,285,3,11,44,a,0.94,4.19,Boubakary Soumaré,10
-77,7,3,1,48,a,0.94,4.34,Jorge Luiz Frello Filho,10
-604,597,3,1,45,a,0.92,4.16,Myles Lewis-Skelly,10
+654,652,3,14,49,a,0.94,4.17,Manuel Ugarte,10
+77,7,3,1,48,a,0.93,4.34,Jorge Luiz Frello Filho,10
 494,475,2,17,39,a,0.92,3.8,Charlie Taylor,10
-82,12,3,1,45,a,0.92,4.99,Ethan Nwaneri,10
-654,652,3,14,49,a,0.91,4.17,Manuel Ugarte,10
-236,184,3,6,45,a,0.88,4.23,Renato Palma Veiga,10
-171,113,3,5,54,a,0.87,5.92,Simon Adingra,10
+604,597,3,1,45,a,0.92,4.16,Myles Lewis-Skelly,10
+479,457,2,17,39,a,0.9,3.25,James Bree,10
+171,113,3,5,54,a,0.88,5.92,Simon Adingra,10
+146,86,2,4,45,d,0.88,7.83,Kristoffer Ajer,10
+236,184,3,6,45,a,0.87,4.23,Renato Palma Veiga,10
 359,322,2,12,48,a,0.85,4.47,Joe Gomez,10
 141,80,3,3,50,d,0.85,10.55,Luis Sinisterra,10
-238,187,2,6,44,a,0.84,5.44,Tosin Adarabioyo,10
-506,489,3,18,47,a,0.83,3.68,Archie Gray,10
-403,371,2,14,44,a,0.81,6.86,Jonny Evans,10
-479,457,2,17,39,a,0.79,3.25,James Bree,10
-357,320,3,12,47,a,0.78,4.26,Endo Wataru,10
+506,489,3,18,47,a,0.82,3.68,Archie Gray,10
+238,187,2,6,43,a,0.82,5.42,Tosin Adarabioyo,10
+403,371,2,14,44,a,0.8,6.86,Jonny Evans,10
+357,320,3,12,47,a,0.79,4.26,Endo Wataru,10
 572,563,3,20,52,a,0.77,4.37,Rodrigo Martins Gomes,10
 332,290,3,11,52,a,0.76,4.71,Bobby De Cordova-Reid,10
-409,378,3,14,52,i,0.75,8.65,Kobbie Mainoo,10
 543,531,3,16,62,n,0.75,7.29,James Ward-Prowse,10
 99,31,3,2,53,a,0.74,4.13,Emiliano Buendía Stati,10
-33,310,1,12,54,i,0.74,12.21,Alisson Ramses Becker,10
-314,270,2,10,41,i,0.73,6.01,Jacob Greaves,10
+314,270,2,10,41,i,0.74,6.01,Jacob Greaves,10
 249,198,4,11,53,a,0.71,4.64,Odsonne Edouard,10
-407,376,2,14,43,a,0.7,4.94,Victor Lindelöf,10
+33,310,1,12,54,i,0.71,12.21,Alisson Ramses Becker,10
+407,376,2,14,43,a,0.71,4.94,Victor Lindelöf,10
 239,188,3,17,45,a,0.7,3.08,Lesley Ugochukwu,10
+589,582,2,8,47,a,0.69,3.35,Jake O'Brien,10
+325,282,2,10,40,i,0.69,4.11,Axel Tuanzebe,10
 499,481,3,18,45,a,0.68,3.21,Lucas Bergvall,10
-325,282,2,10,40,i,0.68,4.11,Axel Tuanzebe,10
-589,582,2,8,47,a,0.68,3.35,Jake O'Brien,10
-187,129,4,5,54,i,0.67,7.8,João Pedro Junqueira de Jesus,10
+187,129,4,5,54,i,0.68,7.8,João Pedro Junqueira de Jesus,10
+597,590,4,15,50,a,0.67,3.73,William Osula,10
 591,584,3,17,51,a,0.65,5.34,Ben Brereton Díaz,10
-597,590,4,15,50,a,0.64,3.73,William Osula,10
-433,404,2,15,44,a,0.63,4.47,Lloyd Kelly,10
 492,473,4,17,46,i,0.63,3.3,Ross Stewart,10
+433,404,2,15,43,a,0.63,4.42,Lloyd Kelly,10
+409,378,3,14,52,i,0.61,8.65,Kobbie Mainoo,10
 590,583,2,10,40,a,0.61,2.59,Conor Townsend,10
-193,135,3,5,53,d,0.6,11.12,Yankuba Minteh,10
-247,196,2,7,44,a,0.6,4.39,Nathaniel Clyne,10
 220,167,2,6,43,a,0.6,3.59,Axel Disasi,10
+193,135,3,5,53,d,0.6,11.12,Yankuba Minteh,10
+189,131,2,5,44,a,0.6,4.56,Tariq Lamptey,10
+247,196,2,7,44,a,0.6,4.39,Nathaniel Clyne,10
 444,418,2,15,56,i,0.59,8.76,Kieran Trippier,10
-189,131,2,5,44,a,0.59,4.56,Tariq Lamptey,10
-396,363,2,13,53,i,0.59,8.81,Kyle Walker,10
-208,153,2,6,43,a,0.57,4.21,Benoît Badiashile,10
+504,486,2,18,43,a,0.58,3.11,Radu Drăgușin,10
 219,166,3,6,56,a,0.57,4.09,Kiernan Dewsbury-Hall,10
-504,486,2,18,43,a,0.53,3.11,Radu Drăgușin,10
-393,360,3,13,63,i,0.5,6.31,Rodrigo 'Rodri' Hernandez,10
-21,204,1,20,44,d,0.5,5.85,Sam Johnstone,10
-398,365,3,14,57,d,0.49,4.79,Antony Matheus dos Santos,10
-561,550,3,20,61,i,0.45,5.39,Hwang Hee-chan,10
+396,363,2,13,52,i,0.57,8.71,Kyle Walker,10
+208,153,2,6,43,a,0.57,4.21,Benoît Badiashile,10
+21,204,1,20,44,d,0.51,5.85,Sam Johnstone,10
+393,360,3,13,63,i,0.51,6.31,Rodrigo 'Rodri' Hernandez,10
+398,365,3,14,57,d,0.5,4.78,Antony Matheus dos Santos,10
 530,516,2,19,43,a,0.45,4.16,Vladimír Coufal,10
 156,97,3,4,45,a,0.44,2.32,Yunus Emre Konak,10
-408,377,2,14,49,i,0.44,5.42,Harry Maguire,10
+561,550,3,20,61,i,0.44,5.39,Hwang Hee-chan,10
 274,226,3,8,45,i,0.43,4.09,Tim Iroegbunam,10
-640,636,3,12,68,d,0.41,3.82,Federico Chiesa,10
-137,76,3,3,48,a,0.4,3.29,Philip Billing,10
+137,76,3,3,48,a,0.43,3.29,Philip Billing,10
+408,377,2,14,49,i,0.42,5.42,Harry Maguire,10
+319,275,2,10,40,d,0.41,2.86,Ben Johnson,10
 554,543,2,20,43,a,0.39,3.2,Matt Doherty,10
 321,277,3,10,45,i,0.39,2.6,Massimo Luongo,10
-319,275,2,10,40,d,0.38,2.86,Ben Johnson,10
+640,636,3,12,68,d,0.39,3.82,Federico Chiesa,10
+245,194,2,7,44,i,0.36,4.09,Chris Richards,10
 588,580,2,3,43,a,0.35,3.78,Dean Huijsen,10
-245,194,2,7,44,i,0.35,4.09,Chris Richards,10
+329,287,3,11,44,d,0.34,1.69,Hamza Choudhury,10
 608,602,3,4,45,a,0.33,1.95,Ryan Trevitt,10
-329,287,3,11,44,d,0.32,1.69,Hamza Choudhury,10
 531,517,2,19,40,a,0.31,4.01,Aaron Cresswell,10
 605,598,2,2,40,a,0.29,2.08,Lamare Bogarde,10
+567,558,2,20,40,i,0.29,2.96,Yerson Mosquera,10
+413,382,3,14,63,d,0.28,5.03,Mason Mount,10
+69,660,1,12,40,a,0.27,2.43,Vítezslav Jaros,10
 244,193,3,7,49,d,0.27,3.59,Cheick Doucouré,10
-567,558,2,20,40,i,0.27,2.96,Yerson Mosquera,10
-413,382,3,14,63,d,0.27,5.03,Mason Mount,10
-69,660,1,12,40,a,0.26,2.41,Vítezslav Jaros,10
+350,313,2,12,47,d,0.24,4.66,Conor Bradley,10
 330,288,2,11,40,a,0.23,1.08,Conor Coady,10
-350,313,2,12,47,d,0.22,4.66,Conor Bradley,10
-289,244,2,9,42,i,0.18,3.47,Timothy Castagne,10
-203,147,2,5,44,i,0.15,3.55,Adam Webster,10
-521,504,2,18,44,d,0.15,2.9,Djed Spence,10
+289,244,2,9,42,i,0.18,3.49,Timothy Castagne,10
+521,504,2,18,44,d,0.16,2.9,Djed Spence,10
+203,147,2,5,43,i,0.14,3.53,Adam Webster,10
 658,656,3,2,45,a,0.11,1.26,Kadan Young,10
 665,664,2,20,40,a,0.09,0.56,Alfie Pond,10
 666,665,4,1,45,a,0.09,1.06,Nathan Butler-Oyedeji,10
 659,657,2,1,40,a,0.07,0.62,Maldini Kacurri,10
-610,604,3,9,45,a,0.0,0.0,Josh King,10
+664,663,2,5,40,a,0.0,0.0,Imari Samuels,10
+485,463,3,17,50,a,0.0,0.0,Adam Lallana,10
+482,460,2,17,39,a,0.0,0.0,Ronnie Edwards,10
+651,649,2,4,40,a,0.0,0.0,Jayden Meghoma,10
 661,659,3,1,45,a,0.0,0.0,Ismeal Kabia,10
 486,464,2,17,40,a,0.0,0.0,Juan Larios López,10
-485,463,3,17,50,a,0.0,0.0,Adam Lallana,10
-565,555,4,20,48,i,0.0,0.0,Saša Kalajdžić,10
+478,456,2,17,39,a,0.0,0.0,Armel Bella-Kotchap,10
+662,661,3,4,45,a,0.0,0.0,Tony Yogane,10
+473,450,3,17,49,u,0.0,0.0,Carlos Alcaraz Durán,10
+668,667,3,14,45,a,0.0,0.0,Jack Fletcher,10
+480,458,3,17,45,u,0.0,0.0,Shea Charles,10
+653,651,3,8,50,a,0.0,0.0,Orel Mangala,10
+663,662,2,1,40,a,0.0,0.0,Josh Nichols,10
 488,468,4,17,50,u,0.0,0.0,Sékou Mara,10
-612,606,3,11,45,a,0.0,0.0,Will Alves,10
-611,605,3,9,45,a,0.0,0.0,Martial Godo,10
-660,658,2,1,40,a,0.0,0.0,Ayden Heaven,10
-563,552,2,20,40,u,0.0,0.0,Ki-Jana Hoever,10
+471,448,2,16,45,u,0.0,0.0,Joe Worrall,10
+655,653,2,16,45,a,0.0,0.0,Felipe Rodrigues da Silva,10
+474,451,3,17,45,a,0.0,0.0,Samuel Amo-Ameyaw,10
 490,471,3,17,50,i,0.0,0.0,Will Smallbone,10
+484,462,3,17,50,a,0.0,0.0,Kamaldeen Sulemana,10
+656,654,3,19,50,a,0.0,0.0,Carlos Soler,10
+496,477,2,17,40,a,0.0,0.0,Nathan Wood-Gordon,10
+657,655,3,20,55,a,0.0,0.0,Carlos Roberto Forbs Borges,10
+481,459,3,17,49,u,0.0,0.0,Samuel Edozie,10
+667,666,2,7,40,a,0.0,0.0,Caleb Kporha,10
+660,658,2,1,40,a,0.0,0.0,Ayden Heaven,10
+606,600,3,5,50,a,0.0,0.0,Yasin Ayari,10
+497,478,2,18,40,u,0.0,0.0,Ashley Phillips,10
+563,552,2,20,40,u,0.0,0.0,Ki-Jana Hoever,10
 562,551,3,20,45,u,0.0,0.0,Joe Hodge,10
 560,549,2,20,45,u,0.0,0.0,Hugo Bueno López,10
 558,547,3,20,45,i,0.0,0.0,Enso González,10
 557,546,4,20,45,u,0.0,0.0,Nathan Fraser,10
 556,545,4,20,50,u,0.0,0.0,Fábio Silva,10
 555,544,3,20,48,a,0.0,0.0,Tommy Doyle,10
-613,607,3,13,50,a,0.0,0.0,Nico O'Reilly,10
 468,444,2,16,43,a,0.0,0.0,Harry Toffolo,10
-484,462,3,17,50,a,0.0,0.0,Kamaldeen Sulemana,10
-636,632,3,10,50,d,0.0,0.0,Chiedozie Ogbene,10
-570,561,2,20,40,a,0.0,0.0,Pedro Cardoso de Lima,10
-571,562,3,20,55,u,0.0,0.0,Daniel Castelo Podence,10
-668,667,3,14,45,a,0.0,0.0,Jack Fletcher,10
-471,448,2,16,45,u,0.0,0.0,Joe Worrall,10
-667,666,2,7,40,a,0.0,0.0,Caleb Kporha,10
-602,595,3,5,54,a,0.0,0.0,Brajan Gruda,10
-473,450,3,17,49,u,0.0,0.0,Carlos Alcaraz Durán,10
-606,600,3,5,50,a,0.0,0.0,Yasin Ayari,10
-596,589,4,19,67,i,0.0,0.0,Niclas Füllkrug,10
-474,451,3,17,45,a,0.0,0.0,Samuel Amo-Ameyaw,10
-607,601,3,5,50,u,0.0,0.0,Andrew Moran,10
-593,586,2,9,44,a,0.0,0.0,Jorge Cuenca Barreno,10
-587,579,2,9,43,a,0.0,0.0,Ryan Sessegnon,10
-478,456,2,17,39,a,0.0,0.0,Armel Bella-Kotchap,10
-584,576,3,19,48,a,0.0,0.0,Andy Irving,10
-583,575,2,6,40,u,0.0,0.0,Caleb Wiley,10
-664,663,2,5,40,a,0.0,0.0,Imari Samuels,10
-663,662,2,1,40,a,0.0,0.0,Josh Nichols,10
-480,458,3,17,45,u,0.0,0.0,Shea Charles,10
-582,574,2,15,40,u,0.0,0.0,Miodrag Pivaš,10
-481,459,3,17,49,u,0.0,0.0,Samuel Edozie,10
-609,603,3,8,45,a,0.0,0.0,Harrison Armstrong,10
-580,572,2,14,43,i,0.0,0.0,Leny Yoro,10
-482,460,2,17,39,a,0.0,0.0,Ronnie Edwards,10
-577,569,3,2,53,a,0.0,0.0,Jaden Philogene,10
-662,661,3,4,45,a,0.0,0.0,Tony Yogane,10
-550,539,4,20,45,a,0.0,0.0,Leon Chiwome,10
 551,540,3,20,45,a,0.0,0.0,Luke Cundle,10
-647,645,3,7,45,a,0.0,0.0,Justin Devenny,10
-519,502,3,18,54,u,0.0,0.0,Manor Solomon,10
-646,644,3,7,45,a,0.0,0.0,Franco Umeh-Chibueze,10
-501,483,3,18,50,u,0.0,0.0,Bryan Gil Salvatierra,10
-645,643,2,19,40,a,0.0,0.0,Kaelan Casey,10
-644,642,3,20,50,a,0.0,0.0,André Trindade da Costa Neto,10
-518,501,3,11,49,a,0.0,0.0,Oliver Skipp,10
-643,640,2,2,40,a,0.0,0.0,Sil Swinkels,10
-517,500,4,18,45,u,0.0,0.0,Dane Scarlett,10
-502,484,2,18,43,a,0.0,0.0,Ben Davies,10
-503,485,3,18,45,u,0.0,0.0,Alfie Devine,10
-627,622,3,9,50,a,0.0,0.0,Sander Berge,10
-505,487,2,18,45,u,0.0,0.0,Emerson Leite de Souza Junior,10
-628,623,3,17,50,a,0.0,0.0,Mateus Gonçalo Espanha Fernandes,10
-630,626,2,13,45,u,0.0,0.0,Issa Kaboré,10
-642,638,3,1,45,a,0.0,0.0,Salah-Eddine Oulad M'hand,10
-641,637,2,20,40,d,0.0,0.0,Bastien Meupiyou,10
-631,627,2,8,40,a,0.0,0.0,Roman Dixon,10
-639,635,3,11,49,a,0.0,0.0,Bilal El Khannouss,10
-513,496,2,18,43,a,0.0,0.0,Sergio Reguilón,10
-633,629,3,5,55,i,0.0,0.0,Matt O'Riley,10
-510,493,3,18,49,u,0.0,0.0,Giovani Lo Celso,10
-507,490,3,18,50,u,0.0,0.0,Pierre-Emile Højbjerg,10
-638,634,3,4,49,i,0.0,0.0,Gustavo Nunes Fernandes Gomes,10
-625,620,3,16,55,a,0.0,0.0,Ramón Sosa,10
-524,507,4,18,50,u,0.0,0.0,Alejo Véliz,10
-635,631,3,10,55,a,0.0,0.0,Jack Clarke,10
-648,646,3,7,45,a,0.0,0.0,Asher Agbinone,10
+550,539,4,20,45,a,0.0,0.0,Leon Chiwome,10
+615,609,4,18,45,a,0.0,0.0,Will Lankshear,10
 549,538,3,20,45,u,0.0,0.0,Tawanda Chirewa,10
 548,537,3,20,45,u,0.0,0.0,Francisco Jorge Tomás Oliveira,10
-615,609,4,18,45,a,0.0,0.0,Will Lankshear,10
-657,655,3,20,55,a,0.0,0.0,Carlos Roberto Forbs Borges,10
-496,477,2,17,40,a,0.0,0.0,Nathan Wood-Gordon,10
-656,654,3,19,50,a,0.0,0.0,Carlos Soler,10
 546,534,3,20,48,i,0.0,0.0,Boubacar Traoré,10
-655,653,2,16,45,a,0.0,0.0,Felipe Rodrigues da Silva,10
 544,532,2,19,44,u,0.0,0.0,Kurt Zouma,10
-653,651,3,8,50,a,0.0,0.0,Orel Mangala,10
-651,649,2,4,40,a,0.0,0.0,Jayden Meghoma,10
-541,529,2,19,44,u,0.0,0.0,Nayef Aguerd,10
 618,612,3,18,53,i,0.0,0.0,Wilson Odobert,10
+613,607,3,13,50,a,0.0,0.0,Nico O'Reilly,10
+612,606,3,11,45,a,0.0,0.0,Will Alves,10
 619,613,3,14,45,a,0.0,0.0,Toby Collyer,10
+565,555,4,20,48,i,0.0,0.0,Saša Kalajdžić,10
+602,595,3,5,54,a,0.0,0.0,Brajan Gruda,10
+607,601,3,5,50,u,0.0,0.0,Andrew Moran,10
+596,589,4,19,67,i,0.0,0.0,Niclas Füllkrug,10
+593,586,2,9,44,a,0.0,0.0,Jorge Cuenca Barreno,10
+587,579,2,9,43,a,0.0,0.0,Ryan Sessegnon,10
+609,603,3,8,45,a,0.0,0.0,Harrison Armstrong,10
+584,576,3,19,48,a,0.0,0.0,Andy Irving,10
+583,575,2,6,40,u,0.0,0.0,Caleb Wiley,10
+582,574,2,15,40,u,0.0,0.0,Miodrag Pivaš,10
+580,572,2,14,43,i,0.0,0.0,Leny Yoro,10
+577,569,3,2,53,a,0.0,0.0,Jaden Philogene,10
+610,604,3,9,45,a,0.0,0.0,Josh King,10
+571,562,3,20,55,u,0.0,0.0,Daniel Castelo Podence,10
+570,561,2,20,40,a,0.0,0.0,Pedro Cardoso de Lima,10
+611,605,3,9,45,a,0.0,0.0,Martial Godo,10
+541,529,2,19,44,u,0.0,0.0,Nayef Aguerd,10
 620,614,3,8,45,u,0.0,0.0,Jenson Metcalfe,10
 650,648,4,14,45,a,0.0,0.0,Ethan Wheatley,10
-621,616,2,11,40,u,0.0,0.0,Ben Nelson,10
-538,526,3,19,48,a,0.0,0.0,Luis Guilherme Lira dos Santos,10
-497,478,2,18,40,u,0.0,0.0,Ashley Phillips,10
-533,519,3,19,45,u,0.0,0.0,George Earthy,10
-529,515,3,17,48,a,0.0,0.0,Maxwel Cornet,10
-624,619,3,10,45,a,0.0,0.0,Jens Cajuste,10
+510,493,3,18,49,u,0.0,0.0,Giovani Lo Celso,10
+639,635,3,11,49,a,0.0,0.0,Bilal El Khannouss,10
+507,490,3,18,50,u,0.0,0.0,Pierre-Emile Højbjerg,10
+641,637,2,20,40,d,0.0,0.0,Bastien Meupiyou,10
+642,638,3,1,45,a,0.0,0.0,Salah-Eddine Oulad M'hand,10
+643,640,2,2,40,a,0.0,0.0,Sil Swinkels,10
+505,487,2,18,45,u,0.0,0.0,Emerson Leite de Souza Junior,10
+503,485,3,18,45,u,0.0,0.0,Alfie Devine,10
+502,484,2,18,43,a,0.0,0.0,Ben Davies,10
+644,642,3,20,50,a,0.0,0.0,André Trindade da Costa Neto,10
+645,643,2,19,40,a,0.0,0.0,Kaelan Casey,10
+646,644,3,7,45,a,0.0,0.0,Franco Umeh-Chibueze,10
+501,483,3,18,50,u,0.0,0.0,Bryan Gil Salvatierra,10
+647,645,3,7,45,a,0.0,0.0,Justin Devenny,10
+648,646,3,7,45,a,0.0,0.0,Asher Agbinone,10
 649,647,3,7,45,a,0.0,0.0,Kaden Rodney,10
+638,634,3,4,49,i,0.0,0.0,Gustavo Nunes Fernandes Gomes,10
+636,632,3,10,50,d,0.0,0.0,Chiedozie Ogbene,10
+621,616,2,11,40,u,0.0,0.0,Ben Nelson,10
+635,631,3,10,55,a,0.0,0.0,Jack Clarke,10
+538,526,3,19,48,a,0.0,0.0,Luis Guilherme Lira dos Santos,10
+533,519,3,19,45,u,0.0,0.0,George Earthy,10
+624,619,3,10,45,a,0.0,0.0,Jens Cajuste,10
+529,515,3,17,48,a,0.0,0.0,Maxwel Cornet,10
+625,620,3,16,55,a,0.0,0.0,Ramón Sosa,10
+524,507,4,18,50,u,0.0,0.0,Alejo Véliz,10
+627,622,3,9,50,a,0.0,0.0,Sander Berge,10
+628,623,3,17,50,a,0.0,0.0,Mateus Gonçalo Espanha Fernandes,10
+519,502,3,18,54,u,0.0,0.0,Manor Solomon,10
+518,501,3,11,49,a,0.0,0.0,Oliver Skipp,10
+517,500,4,18,45,u,0.0,0.0,Dane Scarlett,10
+630,626,2,13,45,u,0.0,0.0,Issa Kaboré,10
+631,627,2,8,40,a,0.0,0.0,Roman Dixon,10
+633,629,3,5,55,i,0.0,0.0,Matt O'Riley,10
+513,496,2,18,43,a,0.0,0.0,Sergio Reguilón,10
 469,446,4,16,45,u,0.0,0.0,Hwang Ui-jo,10
 0,5,1,1,40,u,0.0,0.0,Karl Hein,10
 467,442,3,16,44,i,0.0,0.0,Ibrahim Sangaré,10
