@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AI Teams</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <div class="toolbar">
+    <h1>AI Teams</h1>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/suggestions">Suggestions</a>
+      <a href="/ai_teams">AI Teams</a>
+    </nav>
+  </div>
+
+  <h2 class="page-title">Select a Team to View Transfers</h2>
+  
+  <div class="team-links-container">
+    <% transferFiles.forEach(file => {
+       const uname = file.replace('transfers_', '').replace('.txt', '');
+    %>
+      <a href="/ai_teams?username=<%= uname %>" 
+         class="team-link <%= (uname === selectedUsername) ? 'selected' : '' %>">
+        <%= uname %>
+      </a>
+    <% }); %>
+  </div>
+
+  <% if (content) { %>
+    <h3 class="section-title">Transfers and Team Info for <%= selectedUsername %></h3>
+    <div class="transfers-content">
+      <pre><%= content %></pre>
+    </div>
+  <% } %>
+</body>
+</html>
