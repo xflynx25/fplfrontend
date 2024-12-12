@@ -1,25 +1,25 @@
-Transfers for GW 15.0:
-Incoming: None
-Outgoing: None
+Transfers for GW 16.0:
+Incoming: Jørgen Strand Larsen
+Outgoing: Danny Welbeck
 
 Final Team Selection:
 Starting 11:
- - Mark Flekken
+ - Dean Henderson
+ - Pedro Porro
  - Virgil van Dijk
  - Joško Gvardiol
- - Pedro Porro
- - Ollie Watkins (VC)
+ - Ollie Watkins
  - Mohamed Salah (C)
- - Cole Palmer
- - Jarrod Bowen
+ - Cole Palmer (VC)
  - Bernardo Veiga de Carvalho e Silva
- - Danny Welbeck
- - Alex Iwobi
+ - Jarrod Bowen
+ - Jørgen Strand Larsen
+ - Rayan Aït-Nouri
 
 Bench:
- - Rayan Aït-Nouri
- - Nathan Collins
+ - Alex Iwobi
  - Cameron Archer
- - Dean Henderson
+ - Nathan Collins
+ - Mark Flekken
 
 No Chip Played.

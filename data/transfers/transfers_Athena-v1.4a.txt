@@ -1,24 +1,24 @@
-Transfers for GW 15.0:
-Incoming: Virgil van Dijk, Matheus Santos Carneiro Da Cunha
-Outgoing: Alexander Isak, Gabriel dos Santos Magalhães
+Transfers for GW 16.0:
+Incoming: Bukayo Saka, Alexander Isak
+Outgoing: Mohamed Salah, Danny Welbeck
 
 Final Team Selection:
 Starting 11:
  - André Onana
+ - Pedro Porro
  - Virgil van Dijk
  - Joško Gvardiol
- - Pedro Porro
- - Matheus Santos Carneiro Da Cunha
- - Mohamed Salah (C)
+ - Alexander Isak
+ - Bukayo Saka (C)
  - Cole Palmer (VC)
- - Bryan Mbeumo
- - Bernardo Veiga de Carvalho e Silva
- - Danny Welbeck
  - Brennan Johnson
+ - Matheus Santos Carneiro Da Cunha
+ - Bernardo Veiga de Carvalho e Silva
+ - Bryan Mbeumo
 
 Bench:
- - Sepp van den Berg
  - Cameron Archer
+ - Sepp van den Berg
  - Michael Keane
  - Mark Flekken
 

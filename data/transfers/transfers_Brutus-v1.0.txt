@@ -1,25 +1,25 @@
-Transfers for GW 15.0:
-Incoming: Virgil van Dijk, Justin Kluivert
-Outgoing: Rayan Aït-Nouri, Jarrod Bowen
+Transfers for GW 16.0:
+Incoming: Jørgen Strand Larsen
+Outgoing: Danny Welbeck
 
 Final Team Selection:
 Starting 11:
- - Mark Flekken
+ - Robert Sánchez
+ - Pedro Porro
  - Virgil van Dijk
  - Joško Gvardiol
- - Pedro Porro
  - Matheus Santos Carneiro Da Cunha
- - Mohamed Salah (C)
- - Cole Palmer (VC)
- - Bukayo Saka
- - Justin Kluivert
- - Danny Welbeck
+ - Bukayo Saka (C)
+ - Mohamed Salah (VC)
+ - Cole Palmer
  - Brennan Johnson
+ - Jørgen Strand Larsen
+ - Justin Kluivert
 
 Bench:
- - Sepp van den Berg
- - Cameron Archer
  - Dara O'Shea
- - Robert Sánchez
+ - Cameron Archer
+ - Sepp van den Berg
+ - Mark Flekken
 
 No Chip Played.

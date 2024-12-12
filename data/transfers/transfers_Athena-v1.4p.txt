@@ -1,24 +1,24 @@
-Transfers for GW 15.0:
-Incoming: Francisco Evanilson de Lima Barbosa
-Outgoing: Danny Welbeck
+Transfers for GW 16.0:
+Incoming: David Raya Martin, Dejan Kulusevski
+Outgoing: Jarrod Bowen, Robert Sánchez
 
 Final Team Selection:
 Starting 11:
- - Robert Sánchez
- - Joško Gvardiol
+ - David Raya Martin
  - Pedro Porro
+ - Joško Gvardiol
  - Rayan Aït-Nouri
- - Francisco Evanilson de Lima Barbosa
- - Mohamed Salah (C)
- - Cole Palmer (VC)
- - Bukayo Saka
- - Jarrod Bowen
- - Bernardo Veiga de Carvalho e Silva
  - Matheus Santos Carneiro Da Cunha
+ - Bukayo Saka (C)
+ - Mohamed Salah (VC)
+ - Cole Palmer
+ - Dejan Kulusevski
+ - Bernardo Veiga de Carvalho e Silva
+ - Francisco Evanilson de Lima Barbosa
 
 Bench:
- - Sepp van den Berg
  - Cameron Archer
+ - Sepp van den Berg
  - Cameron Burgess
  - Dean Henderson
 
