@@ -1,24 +1,24 @@
-Transfers for GW 16.0:
-Incoming: David Raya Martin, Dejan Kulusevski
-Outgoing: Jarrod Bowen, Robert Sánchez
+Transfers for GW 17.0:
+Incoming: None
+Outgoing: None
 
 Final Team Selection:
 Starting 11:
  - David Raya Martin
- - Pedro Porro
  - Joško Gvardiol
+ - Pedro Porro
  - Rayan Aït-Nouri
  - Matheus Santos Carneiro Da Cunha
- - Bukayo Saka (C)
+ - Cole Palmer (C)
  - Mohamed Salah (VC)
- - Cole Palmer
+ - Bukayo Saka
  - Dejan Kulusevski
- - Bernardo Veiga de Carvalho e Silva
  - Francisco Evanilson de Lima Barbosa
+ - Bernardo Veiga de Carvalho e Silva
 
 Bench:
- - Cameron Archer
  - Sepp van den Berg
+ - Cameron Archer
  - Cameron Burgess
  - Dean Henderson
 

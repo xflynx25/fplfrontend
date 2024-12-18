@@ -1,25 +1,25 @@
-Transfers for GW 16.0:
-Incoming: Jørgen Strand Larsen
-Outgoing: Danny Welbeck
+Transfers for GW 17.0:
+Incoming: Bernardo Veiga de Carvalho e Silva
+Outgoing: Brennan Johnson
 
 Final Team Selection:
 Starting 11:
  - Robert Sánchez
- - Pedro Porro
  - Virgil van Dijk
  - Joško Gvardiol
+ - Pedro Porro
  - Matheus Santos Carneiro Da Cunha
- - Bukayo Saka (C)
+ - Cole Palmer (C)
  - Mohamed Salah (VC)
- - Cole Palmer
- - Brennan Johnson
- - Jørgen Strand Larsen
+ - Bukayo Saka
  - Justin Kluivert
+ - Jørgen Strand Larsen
+ - Bernardo Veiga de Carvalho e Silva
 
 Bench:
+ - Sepp van den Berg
  - Dara O'Shea
  - Cameron Archer
- - Sepp van den Berg
  - Mark Flekken
 
 No Chip Played.
